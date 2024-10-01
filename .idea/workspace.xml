@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33298b2b-2a44-429e-8661-85c116db7cca" name="更改" comment="Fist">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="33298b2b-2a44-429e-8661-85c116db7cca" name="更改" comment="Finsih" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -83,7 +80,7 @@
       <workItem from="1727812565797" duration="1000" />
       <workItem from="1727812605944" duration="516000" />
       <workItem from="1727813445539" duration="542000" />
-      <workItem from="1727813996344" duration="4602000" />
+      <workItem from="1727813996344" duration="5788000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <option name="closed" value="true" />
@@ -109,7 +106,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727814503023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fist">
+      <option name="closed" value="true" />
+      <created>1727819935050</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727819935050</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finsih">
+      <option name="closed" value="true" />
+      <created>1727819980269</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727819980269</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +157,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first time" />
     <MESSAGE value="Fist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fist" />
+    <MESSAGE value="Finsih" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finsih" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/fastApiProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1727819110464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
