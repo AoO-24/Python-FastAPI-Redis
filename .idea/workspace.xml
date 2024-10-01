@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33298b2b-2a44-429e-8661-85c116db7cca" name="更改" comment="first time" />
+    <list default="true" id="33298b2b-2a44-429e-8661-85c116db7cca" name="更改" comment="first time">
+      <change afterPath="$PROJECT_DIR$/.idea/GitLink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +37,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="9f2c8419-b70c-4df4-8699-078095d70858" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/AoO-24/FastAPI-Redis&quot;,
-    &quot;accountId&quot;: &quot;9f2c8419-b70c-4df4-8699-078095d70858&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AoO-24/Python-FastAPI-Redis",
+    "accountId": "9f2c8419-b70c-4df4-8699-078095d70858"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -78,6 +85,7 @@
       <workItem from="1727812565797" duration="1000" />
       <workItem from="1727812605944" duration="516000" />
       <workItem from="1727813445539" duration="542000" />
+      <workItem from="1727813996344" duration="372000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <option name="closed" value="true" />
